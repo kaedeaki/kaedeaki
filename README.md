@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I am a Data Science Enthusiast who makes value out of data.
+I am a Data Science Enthusiast who makes value out of data
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [mdkfji@gmail.com](mailto:mdkfji@gmail.com)
-* 🧠  I'm learning data structures and algorithms
+* 🧠  I'm learning data structures and algorithms currently
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Happy to connect you.
+* ⚡  Happy to connect you
 
 ### Skills
 
