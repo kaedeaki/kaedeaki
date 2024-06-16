@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Madoka Fujii
 ====================================================================================================================================
 
-Data Scientist
+About me
 --------------
 
 I am a Data Science Enthusiast who makes value out of data
 
 * 🌍  I'm based in New York City
+* ⚡  Research Interest in Machine Learning, Deep Learning, Natural Language Processing
 * ✉️  You can contact me at [mdkfji@gmail.com](mailto:mdkfji@gmail.com)
 * 🧠  I'm learning data structures and algorithms currently
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Happy to connect you
+
 
 ### Skills
 
