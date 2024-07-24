@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About me
 --------------
 
-I am a Data Science Enthusiast who makes value out of data
+I am a Data Sciencest who makes value out of data with Finance and Accouning background. 
 
 * 🌍  I'm based in New York City
 * ⚡  Research Interest in Machine Learning, Deep Learning, Natural Language Processing
