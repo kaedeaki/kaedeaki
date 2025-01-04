@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Data Sciencest who makes value out of data with Finance and Accouning background.
 
 * 🌍  I'm based in New York City
-* ✉️  You can contact me at [mdkfji@gmail.com](mailto:mdkfji@gmail.com)
 * 🧠  I'm learning AI agents.
 * 🤝  I'm open to collaborating on any projects.
 * ⚡  Research Interest in AI agents, Machine Learning, Natural Language Processing, Data Engineering
